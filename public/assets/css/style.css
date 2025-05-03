@@ -806,7 +806,7 @@ a.more-details .fa{
     background:url(../img/page-titles/bg_gallery.jpg) center bottom;  
 }
 .page-title-5 {
-    background:url(../img/page-titles/bg_services.jpg) center bottom;   
+    background:url(../img/bg/bg6.jpg) center bottom;   
 }
 .page-title-6 {
     background-image: url('../img/page-titles/page-title-6.jpg');  
@@ -863,16 +863,16 @@ a.more-details .fa{
     background-image: url('../img/pics/bkg-img1.jpg');  
 }
 .bkg-img2 {
-    background-image: url('../img/pics/bkg-img2.png');  
+    background-image: url('../img/bg/bg2.jpeg');  
 }
 .bkg-img3 {
-    background-image: url('../img/pics/bkg-img3.jpg');  
+    background-image: url('../img/bg/bg3.jpg');  
 }
 .bkg-img4 {
     background-image: url('../img/pics/bkg-img4.jpg');  
 }
 .bkg-img5 {
-    background-image: url('../img/pics/bkg-img5.jpg');  
+    background-image: url('../img/bg/bg4.jpeg');  
 }
 .bkg-img6 {
     background-image: url('../img/pics/bkg-img6.jpg');  
@@ -3506,7 +3506,7 @@ textarea:-ms-input-placeholder {
     position: relative; font-size:14px;
     background-color: #6d5f27;
     /*background-image: url('../img/pics/footer-bkg-img1.png'), url('../img/pics/footer-bkg-img2.png');*/
-	background:url(../img/pics/bg_footer1.jpg) center top; background-size:cover;
+	background:url(../img/bg/bg5.jpeg) center top; background-size:cover;
     /*background-position: left 60px, right 60px;*/
     background-repeat: no-repeat;
     width: 100%;
