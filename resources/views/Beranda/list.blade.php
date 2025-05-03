@@ -5,7 +5,7 @@
     <div id="masterslider" class="master-slider ms-skin-default">
         <!-- slide start -->
         <div class="ms-slide">
-            <img src="{{asset('assets/masterslider/style/blank.gif')}}" data-src="{{asset('assets/img/slider/bgsld01.jpg')}}" alt="Kangen Nusantara" style="opacity: 0.2;"/> 
+            <img src="{{asset('assets/masterslider/style/blank.gif')}}" data-src="{{asset('assets/img/slider/bgsld01.jpg')}}" alt="Kangen Nusantara" style="opacity: 0.5;"/> 
 
             <!-- slide heading layer -->
             <h3 class="ms-layer pi-caption02" 
