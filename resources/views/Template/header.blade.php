@@ -25,7 +25,7 @@
                             <div class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav pi-nav">
                                     <li class="current-menu-item"><a href="">Beranda</a></li>
-                                    <li ><a href="">Layanan</a></li>
+                                    <li ><a href="{{route('layanan)}}">Layanan</a></li>
                                     <li ><a href="">Tentang</a></li>
                                     <li ><a href="">Menu</a></li>
                                     <li ><a href="">Galeri</a></li>
