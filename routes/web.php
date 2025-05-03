@@ -16,4 +16,4 @@ Route::get('beranda', function () {
 
 Route::get('layanan', function () {
     return view('Layanan.list');
-});
+})->name('layanan');
