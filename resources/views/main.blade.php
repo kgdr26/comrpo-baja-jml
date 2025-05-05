@@ -2,17 +2,17 @@
 <html>
 <head>
         <meta charset="utf-8">
-        <title>PT BAJA</title>
+        <title>PT MANDALA MAKMUR SENTOSA</title>
         <link rel="canonical" href="">
         <link rel="icon" type="image/png" href="img/ico.png">
-        <meta name="description" content="PT BAJA.">
+        <meta name="description" content="PT MANDALA MAKMUR SENTOSA.">
         <meta name="author" content="">
-        <meta name="keywords" content="PT BAJA ">
+        <meta name="keywords" content="PT MANDALA MAKMUR SENTOSA ">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
-        <meta property="og:title" content="PT BAJA">
+        <meta property="og:title" content="PT MANDALA MAKMUR SENTOSA">
         <meta property="og:type" content="website" />
-        <meta property="og:description" content="PT BAJA.">
+        <meta property="og:description" content="PT MANDALA MAKMUR SENTOSA.">
         <meta property="og:image" content="uploads/logo_kn_share.jpg">
         <meta property="og:url" content="">
         <meta name="twitter:card" content="summary_large_image">
@@ -152,6 +152,26 @@
             });
             /* ]]> */
         </script>
+
+        <!-- <script>
+            $(document).ready(function () {
+                function resizeHeader() {
+                    var position = $(window).scrollTop();
+                    var windowWidth = $(window).width();
+                    if (position > 70 && windowWidth > 1169) {
+                        $('#header-wrapper').addClass('resize-header');
+                    } else {
+                        $('#header-wrapper').removeClass('resize-header');
+                    }
+                }
+
+                // Jalankan saat halaman di-scroll atau di-resize
+                $(window).on('scroll resize', resizeHeader);
+
+                // Jalankan saat pertama kali halaman dimuat
+                resizeHeader();
+            });
+        </script> -->
     
     </body>
 </html>

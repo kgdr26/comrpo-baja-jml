@@ -16,7 +16,7 @@
                                 <!-- .logo start -->
                                 <div class="logo">
                                     <a href="">
-                                        <img src="{{asset('assets/img/slider/logo1.png')}}" alt="Kangen Nusantara" style="width: 7rem;">
+                                        <img src="{{asset('assets/img/logo/logo2.png')}}" alt="Kangen Nusantara" style="width: 7rem;">
                                     </a>
                                 </div><!-- logo end -->
                             </div><!-- .navbar-header end -->
@@ -24,12 +24,12 @@
                             <!-- Collect the nav links, forms, and other content for toggling -->
                             <div class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav pi-nav">
-                                    <li class="current-menu-item"><a href="">Beranda</a></li>
-                                    <li ><a href="{{route('layanan')}}">Layanan</a></li>
-                                    <li ><a href="">Tentang</a></li>
-                                    <li ><a href="">Menu</a></li>
-                                    <li ><a href="">Galeri</a></li>
-                                    <li ><a href="">Kontak</a></li> 
+                                    <li class="{{ is_active_controller('Beranda') }}"><a href="{{route('beranda')}}">Beranda</a></li>
+                                    <li class="{{ is_active_controller('Layanan') }}"><a href="{{route('layanan')}}">Layanan</a></li>
+                                    <li class="{{ is_active_controller('Tentang') }}"><a href="{{route('tentang')}}">Tentang</a></li>
+                                    <li class="{{ is_active_controller('Menu') }}"><a href="{{route('menu')}}">Menu</a></li>
+                                    <li class="{{ is_active_controller('Galeri') }}"><a href="{{route('galeri')}}">Galeri</a></li>
+                                    <li class="{{ is_active_controller('Kontak') }}"><a href="{{route('kontak')}}">Kontak</a></li> 
                                 </ul><!-- .nav.navbar-nav.pi-nav end -->
 
                                 <!-- Responsive menu start -->

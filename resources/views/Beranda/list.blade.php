@@ -9,14 +9,14 @@
 
             <!-- slide heading layer -->
             <h3 class="ms-layer pi-caption02" 
-                style="top: 350px; left: 860px;"
+                style="top: 350px; left: 930px;"
                 data-type="text"
                 data-effect="bottom(40)"
                 data-duration="2000"
                 data-ease="easeOutExpo"
                 data-delay="1000"
                 >
-                Lorem Ipsum
+                Welcome
             </h3>
             <!-- slide heading layer -->
             <h2 class="ms-layer pi-caption01 pi-caption01jarak" 
@@ -27,7 +27,7 @@
                 data-ease="easeOutExpo"
                 data-delay="800"
                 >
-                What is Lorem Ipsum?
+                PT MANDALA MAKMUR SENTOSA
             </h2>
         </div><!-- slide end -->
     </div><!-- .master-slider end -->

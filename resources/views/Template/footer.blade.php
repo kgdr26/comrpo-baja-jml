@@ -10,46 +10,15 @@
                     
                         <!-- .col-md-4 start -->
                         <div class="col-md-4">
-							<span style="font-family:'MontserratBold'; color:#fff;">PT LOREM IPSUME</span><br><br>
+							<span style="font-family:'MontserratBold'; color:#fff;">PT MANDALA MAKMUR SENTOSA</span><br><br>
 
                             <span style="font-family:'MontserratBold'; color:#fff;">Head Office</span><br>
-                            YDSKY Building, Jl. Kaimun Jaya No. 44<br>
-                            Cilandak Barat, Jakarta 12430 Indonesia<br>
+                            18 Office Park Lt.28 Suite A 2,<br>
+                            Jl. TB Simaputang No. 18, Kebagusan, Pasar Minggu, Jakarta Selatan, DKI Jakarta<br>
 
                         </div><!-- .col-md-4 end-->
 
-                        <!-- .col-md-4 start -->
-                        <div class="col-md-4">
-                            <br><br>
-                            <span style="font-family:'MontserratBold'; color:#fff;">Warehouse 1</span> <br>
-                            Jl. Pasific Plaza Boulevard No.001<br>
-                            Teluk Jambe Timur, Karawang 41361<br><br>
-                            
-                            <span style="font-family:'MontserratBold'; color:#fff;">Warehouse 2</span> <br>
-                            Jl. Anggrek Loka No.A/12, BSD<br><br>
-                            
-                            <span style="font-family:'MontserratBold'; color:#fff;">Warehouse 3</span> <br>
-							Jl. Aria Putra no 10, Bintaro<br>
-
-
-                          
-                        </div><!-- .col-md-4 end -->
-
-                        <!-- .col-md-4 start -->
-                        <div class="col-md-4">
-							 <br><br>
-                            <span style="font-family:'MontserratBold'; color:#fff;">Customer Service</span> <br>
-                            08000000000000<br><br>
-                            
-                            <span style="font-family:'MontserratBold'; color:#fff;">Email</span><br>
-                            loremipsume@gmail.com<br><br>
-                            
-                            <span style="font-family:'MontserratBold'; color:#fff;">Stay Connected</span><br>
-                            IG : @loremipsume<br>
-                        </div><!-- .col-md-4 end-->
                     </div><!-- .row end -->
-
-                 
                 </div><!-- .container end -->
             </footer><!-- #footer end -->
         </div>

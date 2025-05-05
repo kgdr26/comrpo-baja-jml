@@ -59,9 +59,8 @@
             </div><!-- .row end -->
         </div><!-- .container end -->
     </div><!-- .page-content end -->
-        
-        
-        <!-- .page-content start -->
+            
+    <!-- .page-content start -->
     <div class="page-content">
         <div class="container">
             <!-- .row start -->
@@ -98,8 +97,7 @@
         </div><!-- .container end -->
     </div><!-- .page-content end -->
 
-       
-        <!-- .page-content start -->
+    <!-- .page-content start -->
     <div class="page-content">
         <div class="container">
             <!-- .row start -->
@@ -139,103 +137,99 @@
         </div><!-- .container end -->
     </div><!-- .page-content end -->
 
+    <!-- .page-content start -->
+    <div class="page-content">
+        <div class="container">
+            <!-- .row start -->
+            <div class="row m-0 p-0">
 
-              <!-- .page-content start -->
-        <div class="page-content">
-            <div class="container">
-                <!-- .row start -->
-                <div class="row m-0 p-0">
+                <!-- .col-md-6 start -->
+                <div class="col-md-6 col-sm-6 centered">
+                    <div class="custom-heading style-1">
+                        <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Layanan Kami</h5>
+                        <h3>Why do we use it?</h3>
 
-                    <!-- .col-md-6 start -->
-                    <div class="col-md-6 col-sm-6 centered">
-                        <div class="custom-heading style-1">
-                            <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Layanan Kami</h5>
-                            <h3>Why do we use it?</h3>
-
-                            <!-- .divider.style-1 start -->
-                            <div class="divider style-1 center">
-                                <span class="hr-simple left"></span>
-                                <i class="fa fa-circle hr-icon"></i>
-                                <span class="hr-simple right"></span>
-                            </div>
-                        </div><!-- .custom-heading.style-1 end -->
-                       
-                            <p align="left">Lorem Ipsume :<br>
-                              - Karawang KIIC (Lorem Ipsume Bistro &amp; Kitchen)<br>
-                              - Bintaro Jakarta (official F&amp;B tenant for Wuffy Space Raya)
-                              </p>
-                            <p align="left">
-                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+                        <!-- .divider.style-1 start -->
+                        <div class="divider style-1 center">
+                            <span class="hr-simple left"></span>
+                            <i class="fa fa-circle hr-icon"></i>
+                            <span class="hr-simple right"></span>
+                        </div>
+                    </div><!-- .custom-heading.style-1 end -->
+                    
+                        <p align="left">Lorem Ipsume :<br>
+                            - Karawang KIIC (Lorem Ipsume Bistro &amp; Kitchen)<br>
+                            - Bintaro Jakarta (official F&amp;B tenant for Wuffy Space Raya)
                             </p>
+                        <p align="left">
+                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+                        </p>
 
-                        <img src="../img/img_service10.jpg" alt="Lorem Ipsume" />
-                    
-                    </div><!-- .col-md-6 end -->
-                    
-                    <!-- .col-md-6 start -->
-                    <div class="col-md-6 col-sm-6">
-                        <img src="../img/img_service11.jpg" alt="Lorem Ipsume" /><br>
-                        <img src="../img/img_service12.jpg" alt="Lorem Ipsume" />
-                    </div><!-- .col-md-6 end -->
-                    
-                </div><!-- .row end -->
-            </div><!-- .container end -->
-        </div><!-- .page-content end -->  
+                    <img src="../img/img_service10.jpg" alt="Lorem Ipsume" />
+                
+                </div><!-- .col-md-6 end -->
+                
+                <!-- .col-md-6 start -->
+                <div class="col-md-6 col-sm-6">
+                    <img src="../img/img_service11.jpg" alt="Lorem Ipsume" /><br>
+                    <img src="../img/img_service12.jpg" alt="Lorem Ipsume" />
+                </div><!-- .col-md-6 end -->
+                
+            </div><!-- .row end -->
+        </div><!-- .container end -->
+    </div><!-- .page-content end -->  
 
-       
-        
-        
-    	<!-- .page-content start -->
-        <div class="page-content">
-            <div class="container">
-                <!-- .row start -->
-                <div class="row m-0 p-0">
-                    <!-- .col-md-6 start -->
-                    <div class="col-md-6 col-sm-6">
-                        <img src="../img/img_service13.jpg" alt="Lorem Ipsume" />
-                    </div><!-- .col-md-6 end -->
-                    
-                    <!-- .col-md-6 start -->
-                    <div class="col-md-6 col-sm-6 centered">
-                        <div class="custom-heading style-1">
-                            <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Layanan Kami</h5>
-                            <h3>Where can I get some?</h3>
+    <!-- .page-content start -->
+    <div class="page-content">
+        <div class="container">
+            <!-- .row start -->
+            <div class="row m-0 p-0">
+                <!-- .col-md-6 start -->
+                <div class="col-md-6 col-sm-6">
+                    <img src="../img/img_service13.jpg" alt="Lorem Ipsume" />
+                </div><!-- .col-md-6 end -->
+                
+                <!-- .col-md-6 start -->
+                <div class="col-md-6 col-sm-6 centered">
+                    <div class="custom-heading style-1">
+                        <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Layanan Kami</h5>
+                        <h3>Where can I get some?</h3>
 
-                            <!-- .divider.style-1 start -->
-                            <div class="divider style-1 center">
-                                <span class="hr-simple left"></span>
-                                <i class="fa fa-circle hr-icon"></i>
-                                <span class="hr-simple right"></span>
-                            </div>
-                        </div><!-- .custom-heading.style-1 end -->
-                        
-                        <p align="left" style="color:#5b4c3d;">
-                        
-                            <strong>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</strong> : <br>
-                            <ul style="margin-left:10px;">
-                            <li style="text-align:left; list-style: disc;">What is Lorem Ipsum?</li>
-                            <li style="text-align:left; list-style: disc;">What is Lorem Ipsum?</li>
-                            <li style="text-align:left; list-style: disc;">What is Lorem Ipsum?</li>
-                            <li style="text-align:left; list-style: disc;">What is Lorem Ipsum?<br>
-							- What is Lorem Ipsum? <br>
-							- What is Lorem Ipsum?<br>
-							- What is Lorem Ipsum?<br>
-                            </li>
-                            </ul>
-                                                    
-                        </p>	
+                        <!-- .divider.style-1 start -->
+                        <div class="divider style-1 center">
+                            <span class="hr-simple left"></span>
+                            <i class="fa fa-circle hr-icon"></i>
+                            <span class="hr-simple right"></span>
+                        </div>
+                    </div><!-- .custom-heading.style-1 end -->
+                    
+                    <p align="left" style="color:#5b4c3d;">
+                    
+                        <strong>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</strong> : <br>
+                        <ul style="margin-left:10px;">
+                        <li style="text-align:left; list-style: disc;">What is Lorem Ipsum?</li>
+                        <li style="text-align:left; list-style: disc;">What is Lorem Ipsum?</li>
+                        <li style="text-align:left; list-style: disc;">What is Lorem Ipsum?</li>
+                        <li style="text-align:left; list-style: disc;">What is Lorem Ipsum?<br>
+                        - What is Lorem Ipsum? <br>
+                        - What is Lorem Ipsum?<br>
+                        - What is Lorem Ipsum?<br>
+                        </li>
+                        </ul>
+                                                
+                    </p>	
 
-                    </div><!-- .col-md-6 end -->
-                    
-                    <!-- .col-md-6 start -->
-                    <div class="col-md-12 col-sm-12">
-                    <br>
-                        <img src="../img/img_service14.jpg" alt="Lorem Ipsume" />
-                    </div><!-- .col-md-6 end -->
-                    
-                   
-                </div><!-- .row end -->
-            </div><!-- .container end -->
-        </div><!-- .page-content end -->
+                </div><!-- .col-md-6 end -->
+                
+                <!-- .col-md-6 start -->
+                <div class="col-md-12 col-sm-12">
+                <br>
+                    <img src="../img/img_service14.jpg" alt="Lorem Ipsume" />
+                </div><!-- .col-md-6 end -->
+                
+                
+            </div><!-- .row end -->
+        </div><!-- .container end -->
+    </div><!-- .page-content end -->
 
 @stop
