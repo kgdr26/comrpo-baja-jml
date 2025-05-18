@@ -25,9 +25,9 @@
                             <div class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav pi-nav">
                                     <li class="{{ is_active_controller('Beranda') }}"><a href="{{route('beranda')}}">Beranda</a></li>
-                                    <li class="{{ is_active_controller('Layanan') }}"><a href="{{route('layanan')}}">Layanan</a></li>
                                     <li class="{{ is_active_controller('Tentang') }}"><a href="{{route('tentang')}}">Tentang</a></li>
-                                    <li class="{{ is_active_controller('Menu') }}"><a href="{{route('menu')}}">Menu</a></li>
+                                    <li class="{{ is_active_controller('Menu') }}"><a href="{{route('menu')}}">Produk</a></li>
+                                    <li class="{{ is_active_controller('Layanan') }}"><a href="{{route('layanan')}}">Partner</a></li>
                                     <li class="{{ is_active_controller('Galeri') }}"><a href="{{route('galeri')}}">Galeri</a></li>
                                     <li class="{{ is_active_controller('Kontak') }}"><a href="{{route('kontak')}}">Kontak</a></li> 
                                 </ul><!-- .nav.navbar-nav.pi-nav end -->
@@ -38,9 +38,9 @@
 
                                     <ul class="dl-menu">
                                         <li><a href="">Beranda</a></li>
-                                        <li><a href="">Layanan</a></li>
                                         <li><a href="">Tentang</a></li>
-                                        <li><a href="">Menu</a></li>
+                                        <li><a href="">Produk</a></li>
+                                        <li><a href="">Partner</a></li>
                                         <li><a href="">Galeri</a></li>
                                         <li><a href="">Kontak</a></li>
                                     </ul><!-- .dl-menu end -->

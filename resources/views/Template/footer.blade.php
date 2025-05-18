@@ -15,6 +15,7 @@
                             <span style="font-family:'MontserratBold'; color:#fff;">Head Office</span><br>
                             18 Office Park Lt.28 Suite A 2,<br>
                             Jl. TB Simaputang No. 18, Kebagusan, Pasar Minggu, Jakarta Selatan, DKI Jakarta<br>
+                            Tlp. 0878-2080-2018
 
                         </div><!-- .col-md-4 end-->
 
@@ -32,16 +33,16 @@
                 <div class="row">
                     <!-- .col-md-6 start -->
                     <div class="col-md-6">
-                        <p>© Lorem ipsume {{date('Y')}} All rights reserved. </p>
+                        <p>© PT MANDALA MAKMUR SENTOSA {{date('Y')}} All rights reserved. </p>
                     </div><!-- .col-md-6 end -->
 
                     <!-- .col-md-6 start -->
                     <div class="col-md-6">
                         <ul class="breadcrumb">
                             <li><a href="">Beranda</a></li>
-                            <li><a href="">Layanan</a></li>
                             <li><a href="">Tentang</a></li>
-                            <li><a href="">Menu</a></li>
+                            <li><a href="">Produk</a></li>
+                            <li><a href="">Partner</a></li>
                             <li><a href="">Galeri</a></li>
                             <li><a href="">Kontak</a></li>
                         </ul>
@@ -51,7 +52,7 @@
 
             <a href="#" class="scroll-up"><i class="fa fa-angle-double-up"></i></a>
             
-            <a class="scroll-up1" href=""><img alt="" src="{{asset('assets/img/icon-wa.png')}}" style="width: 50px;flex; justify-content: center; align-items: center;" /></a>
+            <a class="scroll-up1" href="https://wa.me/6287820802018?text=Saya%20menemukan%20informasi%20di%20website%20https%3A%2F%2Fptmandalamakmursentosa.com%2F%2C%20saya%20ingin%20berdiskusi%20lebih%20lanjut" target="_blank"><img alt="" src="{{asset('assets/img/icon-wa.png')}}" style="width: 50px;flex; justify-content: center; align-items: center;" /></a>
     
 		
 
