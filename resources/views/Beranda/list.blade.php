@@ -46,8 +46,8 @@
                 <div class="col-md-6 col-sm-6 centered">
                     <div class="frame-box custom-img-background bkg-img2">
                         <div class="custom-heading style-1">
-                            <h5 style="font-family:Trajan Pro Regular; color:#f36f21;letter-spacing:2px;">Lorem Ipsum</h5>
-                            <h3 style="font-family:baskervillenormal; text-transform:none; letter-spacing:-2px;">Where does it come from?</h3>
+                            <h5 style="font-family:Trajan Pro Regular; color:#f36f21;letter-spacing:2px;">Selamat Datang</h5>
+                            <h3 style="font-family:baskervillenormal; text-transform:none; letter-spacing:-2px;">PT MANDALA MAKMUR SENTOSA</h3>
 
                             <!-- .divider.style-1 start -->
                             <div class="divider style-1 center">
@@ -57,9 +57,9 @@
                             </div>
                         </div><!-- .custom-heading.style-1 end -->
 
-                        <p><span style="font-weight:800;">Lorem Ipsum</span><br>
-                        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-                                                    </p>
+                        <p><span style="font-weight:800;">Selamat datang di</span><br>
+                         PT Mandala Makmur Sentosa, mitra terpercaya Anda dalam solusi baja berkualitas tinggi. Dengan pengalaman bertahun-tahun di industri baja, kami berkomitmen untuk menyediakan produk yang kuat, tahan lama, dan inovatif guna mendukung berbagai kebutuhan konstruksi dan manufaktur.
+                        </p>
                     </div>
                 </div><!-- .col-md-6 end -->
 
@@ -79,8 +79,8 @@
                 <!-- .col-md-12 start -->
                 <div class="col-md-12 centered">
                     <div class="custom-heading style-1 triggerAnimation animated" data-animate='fadeInUp'>
-                        <h5 style="font-family:Trajan Pro Regular; color:#fbda9a;letter-spacing:2px;">Lorem Ipsum</h5>
-                        <h2>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</h2>
+                        <h5 style="font-family:Trajan Pro Regular; color:#fbda9a;letter-spacing:2px;">PT MANDALA MAKMUR SENTOSA</h5>
+                        <h2>"Kami mengutamakan kualitas, keandalan, dan pelayanan terbaik untuk memastikan kepuasan pelanggan. Jelajahi website kami untuk mengenal lebih jauh produk dan layanan unggulan yang dirancang khusus untuk memenuhi standar tertinggi di pasar."</h2>
                     </div><!-- .custom-heading.style-1 end -->
                 </div><!-- .col-md-12 end -->
             </div><!-- .row end -->
@@ -103,104 +103,52 @@
                                     <!-- .event-item-list.event-item-content start -->
                                     <li class="event-item-list event-item-content centered">
                                         <div class="custom-heading style-1">
-                                            <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Lorem Ipsum</h5>
-                                            <h3>What is Lorem Ipsum?</h3>
-
-                                            <!-- .divider.style-1 start -->
-                                            <div class="divider style-1 center">
-                                                <span class="hr-simple left"></span>
-                                                <i class="fa fa-circle hr-icon"></i>
-                                                <span class="hr-simple right"></span>
-                                            </div>
-                                        </div><!-- .custom-heading.style-2 end -->
-                                        <ul class="article-meta" style="color:#5b4c3d;">
-                                            <li>Lorem Ipsum</li>
-                                            <li>Lorem Ipsum</li>
-                                            <li>Lorem Ipsum</li>
-                                        </ul><!-- .article-meta end -->
-                                            <p style="text-align:justify;" align="left">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                            </p>
-                                        <a href="" class="more-details">Selengkapnya <i class="fa fa-angle-double-right"></i></a>
+                                            <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Kualitas Produk Terjamin</h5>
+                                            <h3>Baja Berkualitas Tinggi untuk Berbagai Kebutuhan?</h3>
+                                        </div>
+                                        <!-- .article-meta end -->
+                                        <p style="text-align:justify;" align="left">
+                                        Kami menghadirkan produk baja dengan standar mutu tertinggi, tahan lama, dan sesuai dengan standar nasional maupun internasional. PT Mandala Makmur Sentosa menjamin setiap produk siap mendukung proyek konstruksi Anda dengan kualitas terbaik.
+                                        </p>
                                     </li><!-- .event-item-list.event-item-content end -->
                                 </ul><!-- .event-item-container end -->
                             </div>
                             <div class="item">
                                 <!-- .event-item-container start -->
                                 <ul class="event-item-container">
-                                    <li class="event-item-list"><img src="{{asset('assets/img/galery/img2.jpg')}}" alt="Lorem Ipsume"/></li>
+                                    <li class="event-item-list"><img src="{{asset('assets/img/galery/img1.jpg')}}" alt="Lorem Ipsume"/></li>
                                     <!-- .event-item-list.event-item-content start -->
                                     <li class="event-item-list event-item-content centered">
                                         <div class="custom-heading style-1">
-                                            <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Lorem Ipsum</h5>
-                                            <h3>What is Lorem Ipsum?</h3>
-
-                                            <!-- .divider.style-1 start -->
-                                            <div class="divider style-1 center">
-                                                <span class="hr-simple left"></span>
-                                                <i class="fa fa-circle hr-icon"></i>
-                                                <span class="hr-simple right"></span>
-                                            </div>
-                                        </div><!-- .custom-heading.style-2 end -->
-                                        <ul class="article-meta" style="color:#5b4c3d;">
-                                            <li>Lorem Ipsum</li>
-                                            <li>Lorem Ipsum</li>
-                                            <li>Lorem Ipsum</li>
-                                        </ul><!-- .article-meta end -->
-                                            <p style="text-align:justify;" align="left">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                            </p>
-                                        <a href="" class="more-details">Selengkapnya <i class="fa fa-angle-double-right"></i></a>
+                                            <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Teknologi dan Inovasi Modern</h5>
+                                            <h3>Inovasi dalam Setiap Produk</h3>
+                                        </div>
+                                        <!-- .article-meta end -->
+                                        <p style="text-align:justify;" align="left">
+                                        Menggunakan teknologi terbaru dan proses produksi yang efisien, kami memastikan produk baja kami tidak hanya kuat, tetapi juga ramah lingkungan dan sesuai kebutuhan modern industri. Kami terus berinovasi untuk memberikan solusi terbaik bagi pelanggan.
+                                        </p>
                                     </li><!-- .event-item-list.event-item-content end -->
                                 </ul><!-- .event-item-container end -->
                             </div>
                             <div class="item">
                                 <!-- .event-item-container start -->
                                 <ul class="event-item-container">
-                                    <li class="event-item-list"><img src="{{asset('assets/img/galery/img3.jpg')}}" alt="Lorem Ipsume"/></li>
+                                    <li class="event-item-list"><img src="{{asset('assets/img/galery/img1.jpg')}}" alt="Lorem Ipsume"/></li>
                                     <!-- .event-item-list.event-item-content start -->
                                     <li class="event-item-list event-item-content centered">
                                         <div class="custom-heading style-1">
-                                            <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Lorem Ipsum</h5>
-                                            <h3>What is Lorem Ipsum?</h3>
-
-                                            <!-- .divider.style-1 start -->
-                                            <div class="divider style-1 center">
-                                                <span class="hr-simple left"></span>
-                                                <i class="fa fa-circle hr-icon"></i>
-                                                <span class="hr-simple right"></span>
-                                            </div>
-                                        </div><!-- .custom-heading.style-2 end -->
-                                        <ul class="article-meta" style="color:#5b4c3d;">
-                                            <li>Lorem Ipsum</li>
-                                            <li>Lorem Ipsum</li>
-                                            <li>Lorem Ipsum</li>
-                                        </ul><!-- .article-meta end -->
-                                            <p style="text-align:justify;" align="left">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                            </p>
-                                        <a href="" class="more-details">Selengkapnya <i class="fa fa-angle-double-right"></i></a>
+                                            <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Layanan Pelanggan Profesional</h5>
+                                            <h3>Solusi Terpercaya dan Layanan Prima</h3>
+                                        </div>
+                                        <!-- .article-meta end -->
+                                        <p style="text-align:justify;" align="left">
+                                        Kami percaya bahwa pelayanan yang cepat, tepat, dan profesional adalah kunci kesuksesan. Tim kami siap memberikan konsultasi dan dukungan penuh agar Anda mendapatkan produk yang sesuai dan layanan terbaik.
+                                        </p>
                                     </li><!-- .event-item-list.event-item-content end -->
                                 </ul><!-- .event-item-container end -->
                             </div>
                         </div><!-- .owl-carousel.owl-theme end -->
                     </div><!-- .carousel-container end -->
-                </div><!-- .col-md-12 end -->
-            </div><!-- .row end -->
-        </div><!-- .container end -->
-    </div><!-- .page-content end -->
-
-    <!-- .page-content start -->
-    <div class="page-content custom-img-background dark bkg-img5 custom-col-padding">
-        <div class="container">
-            <!-- .row start -->
-            <div class="row">
-                <!-- .col-md-12 start -->
-                <div class="col-md-12 centered">
-                    <div class="custom-heading style-1 triggerAnimation animated" data-animate='fadeInUp'>
-                        <h5 style="font-family:Trajan Pro Regular; color:#fbda9a;letter-spacing:2px;">Lorem Ipsum</h5>
-                        <h2>"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."</h2>
-                    </div><!-- .custom-heading.style-1 end -->
                 </div><!-- .col-md-12 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->
