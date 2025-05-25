@@ -123,10 +123,8 @@
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6 centered">
                     <div class="custom-heading style-1">
-                            <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Kami menyedikan berbagai jenis baja</h5>
-                            <h3 style="font-family:baskervillenormal; text-transform:none; letter-spacing:-2px; color:#5b4c3d;">PRODUK KAMI</h3>
-                        
-
+                        <h5 style="font-family:Trajan Pro Regular; color:#f37021;letter-spacing:2px;">Kami menyedikan berbagai jenis baja</h5>
+                        <h3 style="font-family:baskervillenormal; text-transform:none; letter-spacing:-2px; color:#5b4c3d;">PRODUK KAMI</h3>
                         <!-- .divider.style-1 start -->
                         <div class="divider style-1 center">
                             <span class="hr-simple left"></span>

@@ -70,6 +70,7 @@
         <script src="{{asset('assets/js/jquery.scripts.min.js')}}"></script><!-- modernizr, retina, stellar for parallax -->  
         <script src="{{asset('assets/masterslider/masterslider.min.js')}}"></script><!-- Master slider main js -->
         <script src="{{asset('assets/masterslider/jquery.easing.min.js')}}"></script><!-- Master slider easing js -->
+        <script src="{{asset('assets/js/gallery.js')}}"></script><!-- for gallery -->
         <script src="{{asset('assets/js/jquery.magnific-popup.min.js')}}"></script><!-- used for image lightbox -->
         <script src="{{asset('assets/owl-carousel/owl.carousel.min.js')}}"></script><!-- Carousels script -->
         <script src="{{asset('assets/js/jquery.dlmenu.min.js')}}"></script><!-- for responsive menu -->
@@ -153,25 +154,7 @@
             /* ]]> */
         </script>
 
-        <!-- <script>
-            $(document).ready(function () {
-                function resizeHeader() {
-                    var position = $(window).scrollTop();
-                    var windowWidth = $(window).width();
-                    if (position > 70 && windowWidth > 1169) {
-                        $('#header-wrapper').addClass('resize-header');
-                    } else {
-                        $('#header-wrapper').removeClass('resize-header');
-                    }
-                }
 
-                // Jalankan saat halaman di-scroll atau di-resize
-                $(window).on('scroll resize', resizeHeader);
-
-                // Jalankan saat pertama kali halaman dimuat
-                resizeHeader();
-            });
-        </script> -->
     
     </body>
 </html>
