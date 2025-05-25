@@ -39,7 +39,7 @@
             
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6">
-                    <img src="../img/img-about1.png" alt="PT MANDALA MAKMUR SENTOSA" />
+                    <img src="{{ asset('assets/img/galery/Plat Hitam.png') }}" alt="PT MANDALA MAKMUR SENTOSA" />
                 </div><!-- .col-md-6 end -->
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6 centered">
@@ -66,7 +66,7 @@
             <div class="row">
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6  centered">
-                    <img src="../img/ibu_KN.png" alt="" />
+                    <img src="{{ asset('assets/img/galery/Plat Galvanis.jpeg') }}" alt="PT MANDALA MAKMUR SENTOSA" />
                 </div><!-- .col-md-6 end -->
             
                 <!-- .col-md-6 start -->
@@ -74,28 +74,28 @@
                     
                     <ul class="menu-style-1">
                         <li class="menu-item">
-                            <div class="menu-item-thumbnail"><img src="../img/ibu_risa.png" alt="Veronica Risariyana" /></div>
+                            <div class="menu-item-thumbnail"><img src="{{ asset('assets/img/icon_1.png') }}" alt="Kualitas Terjamin" /></div>
                             <div class="menu-item-description">
                                 <span style="font-family:MontserratBold;"> Kualitas Terjamin:</span>
                                 <p>Semua produk telah melalui proses seleksi dan inspeksi ketat sesuai standar industri.</p> 
                             </div>
                         </li>
                         <li class="menu-item">
-                            <div class="menu-item-thumbnail"><img src="../img/ibu_fifi.png" alt="Fifi Suksesti" /></div>
+                            <div class="menu-item-thumbnail"><img src="{{ asset('assets/img/icon_2.png') }}" alt="Layanan Cepat Dan Tepat Waktu" /></div>
                             <div class="menu-item-description">
                                 <span style="font-family:MontserratBold;">Layanan Cepat Dan Tepat Waktu :</span>
                                 <p>Kami memahami penting nya ketepatan waktu dalam setiap proyek.</p>
                             </div>  
                         </li>
                         <li class="menu-item">
-                            <div class="menu-item-thumbnail"><img src="../img/ibu_fifi.png" alt="Fifi Suksesti" /></div>
+                            <div class="menu-item-thumbnail"><img src="{{ asset('assets/img/icon_3.png') }}" alt="Harga Kompetitif" /></div>
                             <div class="menu-item-description">
                                 <span style="font-family:MontserratBold;">Harga Kompetitif :</span>
                                 <p>kami menjalin kerja sama langsung dengan pabrik dan distributor besar untuk memberikan harga terbaik.</p>
                             </div>  
                         </li>
                         <li class="menu-item">
-                            <div class="menu-item-thumbnail"><img src="../img/ibu_fifi.png" alt="Fifi Suksesti" /></div>
+                            <div class="menu-item-thumbnail"><img src="{{ asset('assets/img/icon_4.png') }}" alt="Tim Profesional" /></div>
                             <div class="menu-item-description">
                                 <span style="font-family:MontserratBold;">Tim Profesional :</span>
                                 <p>Didukung oleh tim berpengalaman di bidang logistik, teknik, dan layanan pelanggan.</p>
@@ -117,7 +117,7 @@
             
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6">
-                    <img src="../img/img-about2.png" alt="PT MANDALA MAKMUR SENTOSA" />
+                    <img src="{{ asset('assets/img/galery/Plat Kapal.jpg') }}" alt="PT MANDALA MAKMUR SENTOSA" />
                 </div><!-- .col-md-6 end -->
             
                 <!-- .col-md-6 start -->
