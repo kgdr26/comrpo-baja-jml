@@ -863,7 +863,7 @@ a.more-details .fa{
     background-image: url('../img/pics/bkg-img1.jpg');  
 }
 .bkg-img2 {
-    background-image: url('../img/bg/bg2.jpeg');  
+    background-image: url('../img/bg/bg12.png');  
 }
 .bkg-img3 {
     background-image: url('../img/bg/bg3.jpg');  
@@ -948,7 +948,7 @@ a.more-details .fa{
 
 .frame-box {
     background-color: #fff;
-    border: 17px solid #131822;
+    border: 1rem solid #131822;
     padding: 125px 80px;
     box-shadow: 0 0 18px 7px rgba(0,0,0,0.3);
     -moz-box-shadow: 0 0 18px 7px rgba(0,0,0,0.3);
@@ -957,6 +957,7 @@ a.more-details .fa{
 .custom-img-background.frame-box {
     background-size: 100%;
     background-position: center;
+    height: 34rem;
 }
 .frame-box .custom-heading {
     padding-left: 0 !important;

@@ -30,7 +30,8 @@
                 PT MANDALA MAKMUR SENTOSA
             </h2>
         </div><!-- slide end -->
-    </div><!-- .master-slider end -->
+    </div>
+    <!-- .master-slider end -->
 
     <!-- .page-content start -->
     <div class="page-content custom-img-background bkg-img1">
@@ -46,7 +47,7 @@
                 <div class="col-md-6 col-sm-6 centered">
                     <div class="frame-box custom-img-background bkg-img2">
                         <div class="custom-heading style-1">
-                            <h5 style="font-family:Trajan Pro Regular; color:#f36f21;letter-spacing:2px;">Selamat Datang</h5>
+                            <h5 style="font-family:Trajan Pro Regular; color:#FFFFFF;letter-spacing:2px;">Selamat Datang</h5>
                             <h3 style="font-family:baskervillenormal; text-transform:none; letter-spacing:-2px;">PT MANDALA MAKMUR SENTOSA</h3>
 
                             <!-- .divider.style-1 start -->
@@ -57,7 +58,7 @@
                             </div>
                         </div><!-- .custom-heading.style-1 end -->
 
-                        <p><span style="font-weight:800;">Selamat datang di</span><br>
+                        <p style="color:#FFFFFF;">
                          PT Mandala Makmur Sentosa, mitra terpercaya Anda dalam solusi baja berkualitas tinggi. Dengan pengalaman bertahun-tahun di industri baja, kami berkomitmen untuk menyediakan produk yang kuat, tahan lama, dan inovatif guna mendukung berbagai kebutuhan konstruksi dan manufaktur.
                         </p>
                     </div>
@@ -116,7 +117,7 @@
                             <div class="item">
                                 <!-- .event-item-container start -->
                                 <ul class="event-item-container">
-                                    <li class="event-item-list"><img src="{{asset('assets/img/galery/img1.jpg')}}" alt="Lorem Ipsume"/></li>
+                                    <li class="event-item-list"><img src="{{asset('assets/img/galery/img3.jpg')}}" alt="Lorem Ipsume"/></li>
                                     <!-- .event-item-list.event-item-content start -->
                                     <li class="event-item-list event-item-content centered">
                                         <div class="custom-heading style-1">
@@ -133,7 +134,7 @@
                             <div class="item">
                                 <!-- .event-item-container start -->
                                 <ul class="event-item-container">
-                                    <li class="event-item-list"><img src="{{asset('assets/img/galery/img1.jpg')}}" alt="Lorem Ipsume"/></li>
+                                    <li class="event-item-list"><img src="{{asset('assets/img/galery/img4.jpg')}}" alt="Lorem Ipsume"/></li>
                                     <!-- .event-item-list.event-item-content start -->
                                     <li class="event-item-list event-item-content centered">
                                         <div class="custom-heading style-1">

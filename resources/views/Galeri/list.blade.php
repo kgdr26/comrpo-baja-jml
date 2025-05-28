@@ -55,7 +55,6 @@
                         "img3.jpg",
                         "img4.jpg",
                         "IWF.jpg",
-                        "meindo ph sadasd.png",
                         "pipa besi.jpg",
                         "Plat Bordes.jpg",
                         "Plat Galvanis.jpeg",
