@@ -81,7 +81,7 @@
                 <div class="col-md-12 centered">
                     <div class="custom-heading style-1 triggerAnimation animated" data-animate='fadeInUp'>
                         <h5 style="font-family:Trajan Pro Regular; color:#fbda9a;letter-spacing:2px;">PT MANDALA MAKMUR SENTOSA</h5>
-                        <h2>"Kami mengutamakan kualitas, keandalan, dan pelayanan terbaik untuk memastikan kepuasan pelanggan. Jelajahi website kami untuk mengenal lebih jauh produk dan layanan unggulan yang dirancang khusus untuk memenuhi standar tertinggi di pasar."</h2>
+                        <p>"Kami mengutamakan kualitas, keandalan, dan pelayanan terbaik untuk memastikan kepuasan pelanggan. Jelajahi website kami untuk mengenal lebih jauh produk dan layanan unggulan yang dirancang khusus untuk memenuhi standar tertinggi di pasar."</p>
                     </div><!-- .custom-heading.style-1 end -->
                 </div><!-- .col-md-12 end -->
             </div><!-- .row end -->
