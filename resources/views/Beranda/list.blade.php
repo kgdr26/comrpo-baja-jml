@@ -40,7 +40,7 @@
             <div class="row">
                 <!-- .col-md-3 start -->
                 <div class="col-md-3 col-sm-3 hidden-xs pt-80">
-                    <img src="{{asset('assets/img/galery/img1.jpg')}}" alt="Lorem Ipsume" />
+                    <img src="{{asset('assets/img/galery/'.($arr->img_2 ?? ''))}}" alt="Lorem Ipsume" />
                 </div><!-- .col-md-3 end -->
 
                 <!-- .col-md-6 start -->
@@ -59,14 +59,14 @@
                         </div><!-- .custom-heading.style-1 end -->
 
                         <p style="color:#FFFFFF;">
-                         PT Mandala Makmur Sentosa, mitra terpercaya Anda dalam solusi baja berkualitas tinggi. Dengan pengalaman bertahun-tahun di industri baja, kami berkomitmen untuk menyediakan produk yang kuat, tahan lama, dan inovatif guna mendukung berbagai kebutuhan konstruksi dan manufaktur.
+                            {{ $arr->text_1 ?? '' }}
                         </p>
                     </div>
                 </div><!-- .col-md-6 end -->
 
                 <!-- .col-md-3 start -->
                 <div class="col-md-3 col-sm-3 hidden-xs pt-80">
-                    <img src="{{asset('assets/img/galery/img2.jpg')}}" alt="Lorem Ipsume" />
+                    <img src="{{asset('assets/img/galery/'.($arr->img_3 ?? ''))}}" alt="Lorem Ipsume" />
                 </div><!-- .col-md-3 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->
@@ -81,7 +81,7 @@
                 <div class="col-md-12 centered">
                     <div class="custom-heading style-1 triggerAnimation animated" data-animate='fadeInUp'>
                         <h5 style="font-family:Trajan Pro Regular; color:#fbda9a;letter-spacing:2px;">PT MANDALA MAKMUR SENTOSA</h5>
-                        <p>"Kami mengutamakan kualitas, keandalan, dan pelayanan terbaik untuk memastikan kepuasan pelanggan. Jelajahi website kami untuk mengenal lebih jauh produk dan layanan unggulan yang dirancang khusus untuk memenuhi standar tertinggi di pasar."</p>
+                        <p>"{{ $arr->text_2 ?? '' }}"</p>
                     </div><!-- .custom-heading.style-1 end -->
                 </div><!-- .col-md-12 end -->
             </div><!-- .row end -->
