@@ -39,12 +39,12 @@
             <!-- .col-md-6 start -->
             <div class="col-md-6">
                 <ul class="breadcrumb">
-                    <li><a href="">Beranda</a></li>
-                    <li><a href="">Tentang</a></li>
-                    <li><a href="">Produk</a></li>
-                    <li><a href="">Partner</a></li>
-                    <li><a href="">Galeri</a></li>
-                    <li><a href="">Kontak</a></li>
+                    <li><a href="{{ route('beranda') }}">Beranda</a></li>
+                    <li><a href="{{ route('tentang') }}">Tentang</a></li>
+                    <li><a href="{{ route('menu') }}">Produk</a></li>
+                    <li><a href="{{ route('layanan') }}">Partner</a></li>
+                    <li><a href="{{ route('galeri') }}">Galeri</a></li>
+                    <li><a href="{{ route('kontak') }}">Kontak</a></li>
                 </ul>
             </div><!-- .col-md-6 end -->
         </div><!-- .row end -->
